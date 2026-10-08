@@ -4,7 +4,7 @@
 | Role | Name | GitHub | Track |
 |------|------|--------|-------|
 | Server | Jagrit | [@Jagrit3500](https://github.com/Jagrit3500) | Track 1 — `bserve` |
-| Client | Partner | [@soleilbrulant](https://github.com/soleilbrulant) | Track 2 — `bcurl` |
+| Client | Partner | [@shashwat.24bcs10360](https://github.com/shashwat.24bcs10360) | Track 2 — `bcurl` |
 
 ---
 
@@ -44,7 +44,7 @@ Jagrit_NetworkArchitecture_Project/
 │       ├── index.html       # Default served file
 │       └── about.html       # Second test file
 │
-│  ── TRACK 2: CLIENT (@soleilbrulant) ────────────────────────
+│  ── TRACK 2: CLIENT (@shashwat.24bcs10360) ────────────────────────
 └── client/
     ├── bcurl.py             # BinHTTP/1.0 client
     └── bcurl.bat            # Windows launcher
@@ -63,7 +63,7 @@ python server\bserve.py ./server/www 9000
 python server\bserve.py -v ./server/www 9000
 ```
 
-### Run the client (Track 2 — soleilbrulant)
+### Run the client (Track 2 — shashwat.24bcs10360)
 ```powershell
 # Windows — basic request
 python client\bcurl.py localhost:9000/index.html
@@ -120,7 +120,7 @@ python client\bcurl.py -v localhost:9000/index.html
 |---|------------|------|
 | 1 | Protocol specification — 2 pages, enough for a stranger | `spec.md` |
 | 2 | Server implementation (Track 1 — Jagrit) | `server/bserve.py` |
-| 2 | Client implementation (Track 2 — soleilbrulant) | `client/bcurl.py` |
+| 2 | Client implementation (Track 2 — shashwat.24bcs10360) | `client/bcurl.py` |
 | 2 | Shared protocol library | `protocol.py` |
 | 3 | Annotated hexdump of one complete request/response | `hexdump_annotated.md` |
 
@@ -140,4 +140,4 @@ python client\bcurl.py -v localhost:9000/index.html
 
 ---
 
-*BinHTTP/1.0 — Jagrit (@Jagrit3500) & Partner (@soleilbrulant) — Network Architecture Course*
+*BinHTTP/1.0 — Jagrit (@Jagrit3500) & Partner (@shashwat.24bcs10360) — Network Architecture Course*
