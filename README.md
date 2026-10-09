@@ -4,7 +4,7 @@
 | Role | Name | GitHub | Track |
 |------|------|--------|-------|
 | Server | Jagrit | [@Jagrit3500](https://github.com/Jagrit3500) | Track 1 — `bserve` |
-| Client | Partner | [@shashwat.24bcs10360](https://github.com/shashwat.24bcs10360) | Track 2 — `bcurl` |
+| Client | Shashwat | [@shashwat.24bcs10360](https://github.com/shashwat.24bcs10360) | Track 2 — `bcurl` |
 
 ---
 
@@ -140,4 +140,4 @@ python client\bcurl.py -v localhost:9000/index.html
 
 ---
 
-*BinHTTP/1.0 — Jagrit (@Jagrit3500) & Partner (@shashwat.24bcs10360) — Network Architecture Course*
+*BinHTTP/1.0 — Jagrit (@Jagrit3500) & Shashwat (@shashwat.24bcs10360) — Network Architecture Course*
