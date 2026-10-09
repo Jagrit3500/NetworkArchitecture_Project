@@ -4,7 +4,7 @@
 | Role | Name | GitHub | Track |
 |------|------|--------|-------|
 | Server | Jagrit | [@Jagrit3500](https://github.com/Jagrit3500) | Track 1 — `bserve` |
-| Client | Shashwat | [@shashwat.24bcs10360](https://github.com/shashwat.24bcs10360) | Track 2 — `bcurl` |
+| Client | Shashwat | [@shashwat.24bcs10360](https://github.com/soleilbrulant) | Track 2 — `bcurl` |
 
 ---
 
